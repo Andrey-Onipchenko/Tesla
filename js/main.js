@@ -15,7 +15,7 @@ footerBtn.addEventListener("click", function() {
     text:
       "Оставьте, пожалуйста, ваш номер телефона, наш менеджер обязательно с вами свяжется.",
     content: "input",
-    buttons: ["Передумал", "Хочу тест драйв"]
+    buttons: ["Отмена", "Хочу тест драйв"]
   });
 });
 $(function() {
