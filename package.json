@@ -1,0 +1,21 @@
+{
+  "name": "tesla",
+  "version": "1.0.0",
+  "description": "https://andreysk8er.github.io/Tesla/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreysk8er/Tesla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreysk8er/Tesla/issues"
+  },
+  "homepage": "https://github.com/Andreysk8er/Tesla#readme",
+  "dependencies": {}
+}
